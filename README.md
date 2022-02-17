@@ -1,1 +1,2 @@
-# git-train
+# Testowe
+Testowe repozytorium publiczne
